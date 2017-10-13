@@ -2,7 +2,6 @@
 <database>
     <element attributes="update_synch=true" extends="sys_metadata" label="testABCD" max_length="40" name="x_snc_appabcd_testabcd" type="collection">
         <element label="C1" max_length="40" name="c1" type="string"/>
-        <element label="C2" max_length="40" name="c2" type="string"/>
         <element label="C3" max_length="40" name="c3" type="string"/>
     </element>
 </database>
